@@ -1,10 +1,10 @@
-📘 Frontend Basics Notes
+📘 Frontend Basics Notes   
 
 This repository contains beginner-friendly notes about HTML and CSS fundamentals.
 
 The goal of this repository is to help beginners understand the core concepts of frontend development in a simple and structured way.
 
-📑 Table of Contents
+📑 Table of Contents   
 
 HTML Basics
 
