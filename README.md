@@ -6,7 +6,7 @@ The goal of this repository is to help beginners understand the core concepts of
 
 📑 Table of Contents       
 
-HTML Basics
+HTML Basics.   
 
 Creating an HTML Document
 
