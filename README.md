@@ -1,4 +1,4 @@
-📘 Frontend Basics Notes        
+📘 Frontend Basics Notes             
 
 This repository contains beginner-friendly notes about HTML and CSS fundamentals.
 
